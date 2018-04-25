@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+  <ribbon>
+    <tabs>
+
+      <tab idMso="TabHome" >
+        <group id="CustomHeadersLabel" label="Diagonal Split" insertAfterMso="GroupStyles">
+          <button id="Create" visible="true" size="large" 
+                  label="Add/Edit" keytip="H" 
+                  screentip="Add/Edit diagonal split header labels" 
+                  onAction="HeadersLabel" image="icoAddEdit"/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
