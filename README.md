@@ -6,8 +6,11 @@ Adds the ability to split a cell along the diagonal in order to show labels for 
 
 Install
 -------
+[Download][] latest release
 
-The only file you need to download is `CornerLabels.xlam`.  If you also download `Install.bat` into the same directory, you can double-click on `Install.bat` to copy `CornerLabels.xlam` into `"%appdata%\Microsoft\AddIns\"`.
+Use the link above to download a `.zip` that contains the add-in file (`CornerLabels.xlam`) and `install.bat`.  Copy the files from the zip into a temporary directory.  Double-click on `install.bat` to run it.  After that, it is OK to delete the .zip and the temporary directory.
+
+`Install.bat` simply copies `CornerLabels.xlam` to `"%appdata%\Microsoft\AddIns\"`.
 
 To enable the add-in:
 1. Open Excel and select a blank workbook (or any workbook).
@@ -55,3 +58,4 @@ About Me
 
 [Profile]: https://www.linkedin.com/in/evanbarr/
 [Blog]: https://evansblog.thebarrs.info
+[Download]: https://github.com/evanbarr/Excel-TableCornerLabels/releases/download/v1.0/Excel-TableCornerLabels.zip
