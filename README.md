@@ -55,7 +55,9 @@ About Me
 --------
 [Profile][]  
 [Blog][]  
+[GitHub][]
 
 [Profile]: https://www.linkedin.com/in/evanbarr/
 [Blog]: https://evansblog.thebarrs.info
+[GitHub]: https://evanbarr.github.io/
 [Download]: https://github.com/evanbarr/Excel-TableCornerLabels/releases/download/v1.0/Excel-TableCornerLabels.zip
